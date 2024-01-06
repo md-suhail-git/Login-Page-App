@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "524446986620",
+    "firebase_url": "https://chatapptute-902a1-default-rtdb.firebaseio.com",
+    "project_id": "chatapptute-902a1",
+    "storage_bucket": "chatapptute-902a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524446986620:android:4c90b14e4e56710c97b4f9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj34As98l4oGO_Q4Qhzu504wTuFxnJPjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
